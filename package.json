@@ -1,0 +1,23 @@
+{
+  "name": "@ganggas95/token-manager",
+  "version": "3.0.0",
+  "description": "Library to help you handle session based token ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "token",
+    "manager",
+    "session",
+    "manager",
+    "token",
+    "manager"
+  ],
+  "author": "ganggas95 <subhannizar25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^2.2.0"
+  }
+}
